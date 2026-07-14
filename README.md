@@ -1,2 +1,3 @@
 # Command Line Games
-Individual JavaScript project for WBS Coding School by iLogoUA (c)
+Individual JavaScript project for WBS Coding School.
+Created by iLogoUA © 2026
